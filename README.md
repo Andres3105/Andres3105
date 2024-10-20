@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Andres <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
-<h3 align="center">A passionate Python Back End and Front End Developer</h3>
+<h3 align="center">A passionate Python and java Back End and Front End Developer</h3>
 
 - 🔭 I’m currently working on my **Python Course**
 
-- 🌱 I’m currently learning **Python, HTML5 and CSS3**
+- 🌱 I’m currently learning **Python, Java, React, Angular, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
@@ -42,9 +42,4 @@
   <a href="https://git-scm.com/" target="_blank"> 
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
   </a>
-</p>
-
-<p align= "center">
-  <img height= "150" src="https://github-readme-stats.vercel.app/api?username=BrantLauro&theme=react&show_icons=true&include_all_commits=true" />
-  <img height= "150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrantLauro&theme=react&layout=compact" />
 </p>

@@ -1,28 +1,23 @@
 <h1 align="center">Hi 👋, I'm Andres <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A passionate Python and java Back End and Front End Developer</h3>
 
-- 🔭 I’m currently working on my **Python Course**
-
 - 🌱 I’m currently learning **Python, Java, React, Angular, HTML5 and CSS3**
 
 - 👯 I’m looking to collaborate on **front-end and back-end projects**
 
 - 📫 How to reach me: **andresbohorquez@gmail.com**
 
-- ⚡ What I like to do: **I like so much reading, basketball and skateboarding...and coding of course**
+- ⚡ What I like to do: **I love music, go to gym, video games and coding of course**
 
 <h3 align="center">Connect with me:</h3>
 <div align="center">
-
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andresbohorquez05/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]()
 [![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)]()
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
-  
 </div>
 
 <h3 align="center">Languages and Tools:</h3>
-
 <p align="center"> 
   <a href="https://www.w3.org/html/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 

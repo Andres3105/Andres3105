@@ -1,16 +1,16 @@
 # 👋 Hola, soy Andrés Bohórquez
 
-💻 Desarrollador en formación con enfoque en backend, apasionado por la tecnología, la optimización de procesos y la calidad de datos. Tengo experiencia práctica en automatización con Excel, bases de datos y desarrollo de soluciones eficientes.
+💻 Desarrollador Backend en formación con enfoque en **.NET, C# y bases de datos**, orientado a la construcción de soluciones escalables, automatización de procesos y calidad de datos. Interesado en arquitectura de software, buenas prácticas y desarrollo de aplicaciones eficientes.
 
 ---
 
-## 🚀 Sobre mí
+## 🚀 Perfil Profesional
 
-- 🎯 Enfocado en convertirme en desarrollador Full Stack
-- 🧠 Interesado en buenas prácticas, lógica de programación y estructuras de datos
-- ⚙️ Experiencia en automatización de procesos
-- 📊 Experiencia en calidad de datos y generación de reportes
-- 🏦 Experiencia en entorno corporativo
+- 🔧 Enfoque en desarrollo backend con .NET
+- 🧠 Bases sólidas en lógica de programación y estructuras de datos
+- 🗄️ Experiencia trabajando con datos y validación de información
+- ⚙️ Automatización de procesos con herramientas tecnológicas
+- 📈 Orientado a resultados y mejora continua
 
 ---
 
@@ -19,10 +19,11 @@
 ### 💻 Lenguajes
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=database&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ### ⚙️ Backend & Frameworks
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🗄️ Bases de datos
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
@@ -31,40 +32,67 @@
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
-## 📌 Proyectos destacados
+## 📊 Estadísticas
 
-🔹 **Automatización de reportes en Excel**
-- Desarrollo de macros para generación automática de archivos
-- Filtrado y transformación de datos
-- Optimización de procesos manuales
-
-🔹 **Gestión y calidad de datos**
-- Validación de datos críticos
-- Creación de reportes de calidad
-- Apoyo en gobierno de datos
-
-🔹 *(Próximamente más proyectos en .NET y bases de datos…)*
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Andres3105&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Andres3105&layout=compact&theme=tokyonight)
 
 ---
 
-## 📚 Actualmente aprendiendo
+## 📌 Proyectos Destacados
 
-- Desarrollo backend con .NET y C#
-- SQL Server y MySQL
-- Git y control de versiones
-- Fundamentos de frontend
+### 🧩 Arquitectura de Microservicios (.NET)
+- Implementación de microservicios desacoplados
+- Comunicación entre servicios
+- Uso de Docker para contenerización
+- Enfoque en escalabilidad y mantenibilidad
+
+### 🧬 Pokedex App
+- Aplicación basada en consumo de APIs
+- Manejo de datos dinámicos
+- Integración frontend-backend
+- Estructuración de lógica y presentación de datos
+
+### 📊 Automatización de Reportes (Excel)
+- Desarrollo de macros para generación automática de archivos
+- Filtrado, transformación y estructuración de datos
+- Optimización de procesos manuales
+
+---
+
+## 💼 Experiencia
+
+**Practicante – Sector Bancario**
+- Automatización de procesos mediante macros en Excel
+- Generación de reportes de calidad de datos
+- Validación y control de datos críticos
+- Apoyo en gobierno de datos
+- Mejora en eficiencia operativa
+
+---
+
+## 🎓 Formación
+
+- 📚 Formación en desarrollo de software (en curso)
+- 🧠 Aprendizaje autodidacta en:
+  - .NET y C#
+  - SQL Server y MySQL
+  - Git y control de versiones
+  - JavaScript y fundamentos frontend
 
 ---
 
 ## 📈 Objetivos
 
-- Conseguir mi primera oportunidad como desarrollador junior
-- Fortalecer habilidades en backend
-- Construir proyectos reales
+- 💼 Iniciar carrera como desarrollador backend junior
+- 🚀 Especializarme en arquitectura de software (.NET)
+- 🧩 Construir soluciones escalables y eficientes
+- 📚 Aprendizaje continuo en nuevas tecnologías
 
 ---
 
@@ -75,6 +103,6 @@
 
 ---
 
-## ⚡ Frase
+## ⚡ Filosofía
 
-> "Pequeñas mejoras constantes construyen grandes resultados."
+> "La disciplina y la constancia superan al talento."
